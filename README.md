@@ -19,4 +19,4 @@ I'm a beginner programmer learning python. In my free time, I customize and desi
 
 #### Social and Contacts:
 
-[![Static Badge](https://img.shields.io/badge/telegram-191724?style=for-the-badge&logo=telegram)](https://t.me/Vladislav7o1)
+[![Static Badge](https://img.shields.io/badge/telegram-191724?style=for-the-badge&logo=telegram)](https://t.me/vladikyarche)
