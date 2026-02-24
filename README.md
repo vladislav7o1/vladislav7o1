@@ -6,7 +6,7 @@ I'm a beginner programmer learning python. In my free time, I customize and desi
 
 #### About my system:
 [![Static Badge](https://img.shields.io/badge/ArchLinux-191724?style=for-the-badge&logo=archlinux)](https://archlinux.org/)
-[![Static Badge](https://img.shields.io/badge/NixOS-191724?style=for-the-badge&logo=nixos)](https://nixos.org/)
+[![Static Badge](https://img.shields.io/badge/Void-191724?style=for-the-badge&logo=Voidlinux)](https://voidlinux.org/)
 #### Languages:
 
 [![Static Badge](https://img.shields.io/badge/Python-191724?style=for-the-badge&logo=python)](https://www.python.org/)
